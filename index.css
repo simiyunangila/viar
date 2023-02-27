@@ -10,3 +10,8 @@ body{background-color:darkgray;}
 .nav p{text-align: center;color:black;}
 #click{border-radius :50px;margin-left: 25%;border-color:
      blue;background-color: blue;padding: 12px;}
+#line1{margin-left: 20%;margin-top: 8%;background-color:bisque;
+    border-color: bisque;padding: 20px;border-radius: 10%;color: blue;}
+#line2{margin-left: 5%;background-color:bisque;
+    border-color: bisque;padding: 20px 30px;border-radius: 10%;color: blue;}
+
